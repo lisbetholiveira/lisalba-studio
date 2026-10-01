@@ -27,4 +27,4 @@ Use one of the following labels prominently:
 
 ## Planned first test
 
-SOLAE, a fictional concept brand, is planned as the first functional test after the required prompt assistant is installed and validated. Until then, it must not be described as a completed functional case study or a client project.
+SOLAE is a fictional concept brand with earlier visual work. It is the first structural test of the prompt assistant integration: [prompt cards and test notes](../skills/jm-image-video-prompt-assistant/tests/SOLAE_SMOKE.md). The new prompts are drafts; generation, comparison and visual review of these variants remain pending. Do not describe the integration test as a completed campaign or client project.
