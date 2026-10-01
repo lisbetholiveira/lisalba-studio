@@ -1,0 +1,4 @@
+interface:
+  display_name: "JM Image & Video Prompt Assistant"
+  short_description: "Prepara prompts visuais versionados para a Lisalba Studio"
+  default_prompt: "Usa o JM Image & Video Prompt Assistant para transformar a direção criativa aprovada numa ficha de prompt para produção e revisão."

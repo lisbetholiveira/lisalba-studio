@@ -42,6 +42,8 @@ Every project follows a controlled process with explicit checkpoints:
 
 See [Creative Workflow](docs/creative-workflow.md) for the full process.
 
+The installable [JM Image & Video Prompt Assistant skill](skills/jm-image-video-prompt-assistant/SKILL.md) implements the Prompt Builder handoff. It includes routing, a versioned prompt card, explicit source limitations and a SOLAE structural smoke test. Copy the skill directory into a compatible Codex skills directory to install it; keep the folder structure intact. The seven original JM PDFs and the external GPT's internal instructions are not included or represented as verified.
+
 ## Agent system V1
 
 The V1 architecture separates creative responsibilities into five specialised roles:
